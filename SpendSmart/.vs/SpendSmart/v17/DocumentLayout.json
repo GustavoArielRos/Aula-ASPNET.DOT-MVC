@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\spendsmart-mvc-asp.net 8\\spendsmart\\spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC7F25F-4DBF-40C8-BFAC-F4AB99BB7FAB}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T02:17:22.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Program.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Program.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Program.cs",
+              "RelativeToolTip": "SpendSmart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:16:36.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpendSmart\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:13:39.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpendSmartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:51:29.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T23:41:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:16:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T23:14:19.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T03:19:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\SpendSmart-MVC-ASP.NET 8\\SpendSmart\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T03:19:18.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
